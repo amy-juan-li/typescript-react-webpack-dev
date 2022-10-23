@@ -1,11 +1,15 @@
 # typescript-react-webpack-dev
 Create a dev environment using TypeScript, React, Webpack, and Babel. 
 
+**Run app on dev**  
+<img width="800" alt="Run webpack dev server" src="https://user-images.githubusercontent.com/93111441/197384519-07d49f88-56b4-4efa-9241-956108e8396a.png">
+
 ## Tech Stack
 
-- [**TypeScript**](https://www.typescriptlang.org/): A typed JavaScript
-- [**Webpack**](https://webpack.js.org/): A module bundler to bundle JavaScript files for usage in browser.
-- [**React**]
+- [**TypeScript**](https://www.typescriptlang.org/): A typed JavaScript.
+- [**Webpack**](https://webpack.js.org/): A module bundler to bundle JavaScript files for usage in browser.  
+- [**React**](https://reactjs.org/): A JavaScript library for building user interfaces.  
+- [**Babel**](https://babeljs.io/): The compiler for next generation JavaScript.  
 
 ## Getting Started
 - Install all dependencies:

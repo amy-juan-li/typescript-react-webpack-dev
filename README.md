@@ -31,6 +31,9 @@ Open [http://localhost:9000](http://localhost:3000) with your browser to see the
 yarn build
 ```
 
+## Relevent Content 
+- [Article: A Complete Guide to Use TypeScript in Web Development With/Without React](https://amy-juan-li.medium.com/a-complete-guide-to-use-typescript-in-web-development-with-without-react-3ab58ab4f03c)
+
 ## About me
 - [Medium Blog](https://amy-juan-li.medium.com/)
 - [iReadAction app blog page](https://blog.ireadaction.com/)
